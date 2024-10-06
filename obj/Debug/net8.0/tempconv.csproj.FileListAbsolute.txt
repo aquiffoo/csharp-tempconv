@@ -1,0 +1,14 @@
+E:\Codes\C#\tempconv\bin\Debug\net8.0\tempconv.exe
+E:\Codes\C#\tempconv\bin\Debug\net8.0\tempconv.deps.json
+E:\Codes\C#\tempconv\bin\Debug\net8.0\tempconv.runtimeconfig.json
+E:\Codes\C#\tempconv\bin\Debug\net8.0\tempconv.dll
+E:\Codes\C#\tempconv\bin\Debug\net8.0\tempconv.pdb
+E:\Codes\C#\tempconv\obj\Debug\net8.0\tempconv.GeneratedMSBuildEditorConfig.editorconfig
+E:\Codes\C#\tempconv\obj\Debug\net8.0\tempconv.AssemblyInfoInputs.cache
+E:\Codes\C#\tempconv\obj\Debug\net8.0\tempconv.AssemblyInfo.cs
+E:\Codes\C#\tempconv\obj\Debug\net8.0\tempconv.csproj.CoreCompileInputs.cache
+E:\Codes\C#\tempconv\obj\Debug\net8.0\tempconv.dll
+E:\Codes\C#\tempconv\obj\Debug\net8.0\refint\tempconv.dll
+E:\Codes\C#\tempconv\obj\Debug\net8.0\tempconv.pdb
+E:\Codes\C#\tempconv\obj\Debug\net8.0\tempconv.genruntimeconfig.cache
+E:\Codes\C#\tempconv\obj\Debug\net8.0\ref\tempconv.dll
